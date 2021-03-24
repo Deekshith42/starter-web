@@ -10,5 +10,5 @@ Sample website with plenty of files for demos
 As satted above, the main purpose of this course to get bettwr understanding of git using examples
 ## DEployment
 
-
+we deploy the examples to github
 ##How to COntribute
