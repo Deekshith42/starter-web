@@ -12,3 +12,4 @@ As satted above, the main purpose of this course to get bettwr understanding of 
 
 we deploy the examples to github
 ##How to COntribute
+##Copyright Notice
